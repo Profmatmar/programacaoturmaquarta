@@ -1,0 +1,48 @@
+body {
+  background-color: #E0C4AB
+}
+.Imagemprincipal {
+  height: 100px;
+}
+h1{
+  text-align: center;color: black
+}
+h1{
+font-size: 20px
+}
+h2{
+  border-left-width: medium;
+  text-align: left;color: green;
+  font-size: 30px;
+}
+.minhaimagem {
+  height: 100%
+}
+h3{
+  text-align: right;color: black
+}
+h4{
+  text-align: left;color: red ;font-size: 20px
+}
+h5{
+  text-align: left;color: pink (#ef8e7d)
+}
+
+# Ensino fundamental {
+  display: inline;
+}
+.imagemmatematica {
+ padding-top: 200px;
+}
+
+h{
+  text-align: left;color: #154875
+}
+
+. 6 ano {
+  background-color: white
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+}
